@@ -1,0 +1,11 @@
+{
+  "images": [
+    {
+      "file": "cool_img.jpg",
+      "filter": true,
+      "faces": [
+        { "top": 10, "left": 10, "bottom": 110, "right": 110 }
+      ]
+    }
+  ]
+}
