@@ -4,7 +4,8 @@
       "file": "cool_img.jpg",
       "filter": true,
       "faces": [
-        { "top": 10, "left": 10, "bottom": 110, "right": 110 }
+        { "top": 10, "left": 10, "bottom": 110, "right": 110 },
+        { "top": 200, "left": 10, "bottom": 110, "right": 210 }
       ]
     }
   ]
