@@ -1,11 +1,20 @@
 {
   "images": [
+    
     {
       "file": "cool_img.jpg",
       "filter": false,
       "faces": [
         { "left": 150, "top": 120, "right": 307, "bottom": 272 },
         { "left": 448, "top": 221, "right": 585, "bottom": 352 }
+      ]
+    },
+    
+    {
+      "file": "oktober_revolution.jpg",
+      "filter": true,
+      "faces": [
+        { "left": 1044, "top": 248, "right": 1332, "bottom": 528}
       ]
     }
   ]
