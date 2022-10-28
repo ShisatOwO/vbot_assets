@@ -2,7 +2,7 @@
   "images": [
     {
       "file": "cool_img.jpg",
-      "filter": true,
+      "filter": false,
       "faces": [
         { "left": 150, "top": 120, "right": 307, "bottom": 272 },
         { "left": 448, "top": 221, "right": 585, "bottom": 352 }
