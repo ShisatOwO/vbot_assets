@@ -1,0 +1,14 @@
+{
+  "images": [
+
+    {
+      "file": "franz_revo.png",
+      "filter": false,
+      "faces": [
+        { "left": 465, "top": 224, "right": 563, "bottom": 348},
+        { "left": 686, "top": 435, "right": 800, "bottom": 557}
+      ]
+    }
+    
+  ]
+}
