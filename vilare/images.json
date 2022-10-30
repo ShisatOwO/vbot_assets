@@ -11,9 +11,9 @@
 
    {
     "file": "Germania_1848.jpg",
-    "filter": true,
+    "filter": false,
     "faces": [
-      { "left": 322, "top": 77, "right": 440, "bottom": 230, "rotation": 25}
+      { "left": 322, "top": 77, "right": 440, "bottom": 230, "rotation": 0}
     ]
   }
 
