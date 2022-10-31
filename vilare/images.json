@@ -10,10 +10,13 @@
     },
    
     {
-      "file": "French_Flag.jpg",
+      "file": "French_Flag_Smaller.jpg",
       "filter": false,
       "faces": [
-       { "left": 0, "top": 0, "right": 100, "bottom": 100}
+       { "left": 275, "top": 959, "right": 483, "bottom": 1155},
+        { "left": 907, "top": 1031, "right": 1105, "bottom": 1225},
+        { "left": 2493, "top": 379, "right": 2600, "bottom": 600},
+        { "left": 3046, "top": 1106, "right": 3215, "bottom": 1303}
       ]
     },
    
