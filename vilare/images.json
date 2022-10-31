@@ -13,10 +13,10 @@
       "file": "French_Flag_Smaller.jpg",
       "filter": false,
       "faces": [
-       { "left": 275, "top": 959, "right": 483, "bottom": 1155},
-        { "left": 907, "top": 1031, "right": 1105, "bottom": 1225},
-        { "left": 2493, "top": 379, "right": 2600, "bottom": 600},
-        { "left": 3046, "top": 1106, "right": 3215, "bottom": 1303}
+       { "left": 143, "top": 485, "right": 235, "bottom": 581},
+        { "left": 467, "top": 512, "right": 563, "bottom": 613},
+        { "left": 1228, "top": 200, "right": 1311, "bottom": 290,
+        { "left": 1544, "top": 564, "right": 1606, "bottom": 644}
       ]
     },
    
