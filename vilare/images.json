@@ -13,7 +13,7 @@
       "file": "French_Flag.jpg",
       "filter": false,
       "faces": [
-       { "left": 275, "top": 959, "right": 483, "bottom": 1155}
+       { "left": 0, "top": 0, "right": 100, "bottom": 100}
       ]
     },
    
