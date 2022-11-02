@@ -1,3 +1,6 @@
+//Ich würde vorschlagen als Regel: 1 Koordinate = Hencker, 2 = Opfer, 3-n = Zuschauer , beteiligte
+
+
 {
   "images": [
 
@@ -7,6 +10,19 @@
       "faces": [
         { "left": 460, "top": 220, "right": 563, "bottom": 348, "rotation": 350},
         { "left": 686, "top": 435, "right": 800, "bottom": 557}
+      ]
+    },
+    
+    {
+      "file": "Hinrichtung.png",
+      "filter": false,
+      "faces": [
+        { "left": 246, "top": 95, "right": 369, "bottom": 118, "rotation": 0},
+        { "left": 389, "top": 136, "right": 414, "bottom": 160},
+        { "left": 256, "top": 230, "right": 272, "bottom": 244},
+        { "left": 244, "top": 95, "right": 263, "bottom": 110},
+        { "left": 188, "top": 76, "right": 208, "bottom": 101},
+        { "left": 76, "top": 257, "right": 105, "bottom": 276}
       ]
     }
     
