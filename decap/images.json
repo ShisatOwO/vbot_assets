@@ -16,7 +16,7 @@
       "file": "Hinrichtung.jpg",
       "filter": false,
       "faces": [
-        { "left": 246, "top": 95, "right": 369, "bottom": 118, "rotation": 0},
+        { "left": 346, "top": 95, "right": 369, "bottom": 118, "rotation": 0},
         { "left": 389, "top": 136, "right": 414, "bottom": 160},
         { "left": 256, "top": 230, "right": 272, "bottom": 244},
         { "left": 244, "top": 95, "right": 263, "bottom": 110},
